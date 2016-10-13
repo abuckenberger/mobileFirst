@@ -1,0 +1,114 @@
+ul {
+    font-family: avenir next;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    position: center;
+    left: 36%;
+    list-style: none;
+    outline: none;
+    border: none;
+}
+li {
+    display: inline;
+}
+a {
+  color: #CEE4EB;
+}
+a:hover {
+  color: #EBD5CE;
+}
+a:active {
+  color: 84BDCF;
+}
+
+img.one {
+    max-width: 100%;
+    height: auto;
+    width: 100%; 
+    display: block;
+    margin: auto;
+}
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#intro {
+    font-family: avenir;
+    text-align: left;
+    font-size: 15 px;
+    font-style: italic;
+    color: #D8DCE6;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: -40px;
+    border:none;
+    
+}
+#aboutus {
+    font-family: avenir;
+    text-align: left;
+    font-size: 15px;
+    font-style: italic;
+    color: #D8DCE6;
+    margin-top: 0 px;
+    margin-left: 40 px;
+    margin-right: -40 px;
+    border: none;
+}
+#faq {
+    font-family: avenir;
+    text-align: left;  
+    font-size: 15px;
+    font-style: italic;
+    color: #D8DCE6;
+    margin-top: 0;
+    background: none;
+    margin-left: 40 px;
+    margin-right: -40 px;
+    border: none;
+}
+#summary {
+    font-family: avenir;
+    text-align: left;  
+    font-size: 15px;
+    font-style: italic;
+    color: #D8DCE6;
+    margin-top: 0;
+    background: none;
+    margin-left: 40 px;
+    margin-right: -40 px;
+    border: none;
+}
+img.two {
+     max-width: 100%;
+    height: auto;
+    width: 100%; 
+    display: block;
+    margin: auto;
+}
+img.three {
+     max-width: 100%;
+    height: auto;
+    width: 100%; 
+    display: block;
+    margin: auto;
+}
+img.four {
+     max-width: 100%;
+    height: auto;
+    width: 100%; 
+    display: block;
+    margin: auto;
+}
+background {
+    background-color: #000;
+    
+}
+img {
+     max-width: 100%;
+    height: auto;
+    width: 100%; 
+    display: block;
+    margin: auto;
+}
